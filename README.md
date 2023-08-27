@@ -1,2 +1,5 @@
 # password-generator
-This is used to generate passwords based on the users input of how many characters they want and wether they want letters and symbols to be included. 
+This page is used to generate a password using Numbers, Upper Case, Lower Case, and specialCharacters.
+
+## Link to github pages
+
