@@ -3,4 +3,5 @@ This page is used to generate a password using Numbers, Upper Case, Lower Case, 
 
 ## Link to github pages
 https://coderinsightmaven.github.io/password-generator/
-https://github.com/Coderinsightmaven/password-generator/assets/104241865/159cfa14-80aa-45d1-8777-85d062279f4e
+
+![passwordgen](https://github.com/Coderinsightmaven/password-generator/assets/104241865/d39fa5e2-062b-4ec8-9824-9415bd4fb591)
